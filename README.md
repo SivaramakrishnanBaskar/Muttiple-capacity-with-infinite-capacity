@@ -46,7 +46,7 @@ print("The mean arrival rate per second : %0.2f "%lam)
 print("The mean service rate per second : %0.2f "%mu)
 rho=lam/(c*mu)
 sum=(lam/mu)**c*(1/(1-rho))/math.factorial(c)
-for i in range(0,c):
+for i in range(0,c): 
     sum=sum+(lam/mu)**i/math.factorial(i)
 P0=1/sum
 if (rho<1):
