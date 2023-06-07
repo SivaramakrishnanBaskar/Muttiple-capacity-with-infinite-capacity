@@ -22,28 +22,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ![image](https://github.com/SivaramakrishnanBaskar/Muttiple-capacity-with-infinite-capacity/assets/119476322/50944e85-593c-4f0a-8a37-d21944129396)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Program
 
 ```
-
 DEVELOPED BY : Sivaramakrishnan B
 REGISTER NO : 21222110044
 
@@ -79,8 +60,6 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
 ```
-
-
 
 ## Output :
 ```
